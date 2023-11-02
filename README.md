@@ -1,5 +1,5 @@
 # J2DProject: Análisis de la relación entre los Precios de Alquiler y la Seguridad Vial en Barcelona (2017)
-
+                                                                                                          Jhonatan Barcos Gambaro
 
 ## 1. Introducción
 En primer lugar, describamos los datasets a unificar escogidos y razonamos el por qué de dicha decisión:
